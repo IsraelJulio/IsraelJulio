@@ -1,4 +1,8 @@
-**Olá! 👋 Eu sou o Israel Julio, desenvolvedor full stack e fascinado por tecnologia**
+**Olá! 👋 Eu sou o Israel Julio 🇮🇱, 
+atualmente sou desenvolvedor full stack 👨‍💻
+DDD (31) 🧀
+Estudante de Eng. Sistemas pela UFMG 📚
+& curioso por natureza 🔬**
 <div align="center">
   <a href="https://github.com/israeljulio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israeljulio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
