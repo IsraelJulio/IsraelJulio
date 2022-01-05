@@ -1,4 +1,4 @@
-**Olá! 👋 Eu sou o Israel Julio 🇮🇱**<br>
+**Olá! Eu sou o Israel Julio 👋**<br>
 **atualmente sou desenvolvedor full stack 👨‍💻**<br>
 **DDD (31) 🧀**</br>
 **Estudante de Eng. Sistemas pela UFMG 📚**<br>
