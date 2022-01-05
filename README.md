@@ -1,4 +1,4 @@
-<div style="display: inline_block">
+<div style="display: flex">
   <div class="intro">
 <strong>Olá! Eu sou o Israel Julio 👋<strong/><br>
 **Atualmente sou desenvolvedor full stack 👨‍💻**<br>
