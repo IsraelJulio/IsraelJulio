@@ -1,11 +1,12 @@
-**Olá! Eu sou o Israel Julio 👋**<br>
+<div style="display: inline_block">
+  
+<strong>Olá! Eu sou o Israel Julio 👋<strong/><br>
 **Atualmente sou desenvolvedor full stack 👨‍💻**<br>
 **DDD (31) 🧀**</br>
 **Estudante de Eng. Sistemas pela UFMG 📚**<br>
 **& curioso por natureza 🔬**<br>
-<div align="center">
+
   <a href="https://github.com/israeljulio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israeljulio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljulio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
