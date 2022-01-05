@@ -1,7 +1,7 @@
 <div style="display: flex;" >
   <div class="intro" style="width:40%;">
-<strong>Olá! Eu sou o Israel Julio 👋<strong/><br>
-**Atualmente sou desenvolvedor full stack 👨‍💻**<br>
+Olá! Eu sou o Israel Julio 👋
+Atualmente sou desenvolvedor full stack 👨‍💻<br>
 **DDD (31) 🧀**</br>
 **Estudante de Eng. Sistemas pela UFMG 📚**<br>
 **& curioso por natureza 🔬**<br>
