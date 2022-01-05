@@ -1,16 +1,15 @@
-<div style="display: flex;" align="center" >
-  <div class="intro" style="width:20%;">
+
 <strong>Olá! Eu sou o Israel Julio 👋<strong/><br>
 Atualmente sou desenvolvedor full stack 👨‍💻<br>
 DDD (31) 🧀</br>
 Estudante de Eng. Sistemas pela UFMG 📚<br>
 & curioso por natureza 🔬<br>
-</div>
+
   <div class="imagens">
   <a href="https://github.com/israeljulio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljulio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Israel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Israel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
