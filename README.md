@@ -1,10 +1,10 @@
 <div style="display: flex;" >
   <div class="intro" style="width:40%;">
-Olá! Eu sou o Israel Julio 👋
+<strong>Olá! Eu sou o Israel Julio 👋<strong/>
 Atualmente sou desenvolvedor full stack 👨‍💻<br>
-**DDD (31) 🧀**</br>
-**Estudante de Eng. Sistemas pela UFMG 📚**<br>
-**& curioso por natureza 🔬**<br>
+DDD (31) 🧀</br>
+Estudante de Eng. Sistemas pela UFMG 📚<br>
+& curioso por natureza 🔬<br>
 </div>
   <div class="imagens">
   <a href="https://github.com/israeljulio">
