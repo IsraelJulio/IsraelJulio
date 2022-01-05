@@ -1,4 +1,4 @@
-<div style="display: flex" height="180em>
+<div style="display: flex;width:40%;" >
   <div class="intro">
 <strong>Olá! Eu sou o Israel Julio 👋<strong/><br>
 **Atualmente sou desenvolvedor full stack 👨‍💻**<br>
