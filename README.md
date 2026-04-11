@@ -1,48 +1,102 @@
+<h1 align="center">Hi 👋, I'm Israel Jhonatas</h1>
 
-<h1 align="left">Olá! ✌ Eu sou o Israel Julio  👨‍💻 - dev .NET C# </h1>
+<h3 align="center">Full Stack Developer | .NET & Angular Specialist | Building Scalable & Real-Time Systems</h3>
 
-<div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-</div>
-<div align="center">
-   <a href="https://instagram.com/israel.jhonata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:israel.jhonatas@sesisenaibetim.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-jhonatas-854557214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-***
-<div align="center">
-   <h3> APRENDIZ CONSTANTE EM LINGUAGENS DE PROGRAMAÇÃO E CURIOSO POR NATUREZA </h3>
-</div>
-
-- 🎯 Meu objetivo sempre é **agregar valor** e entregar algo que realmente **impacte** a vida das pessoas.
-
-- 📈 Adepto das **metodologias agéis**, também estudo bastante sobre Desenvolvimento Pessoal.
-
-- 🎓 Graduando **Engenharia de Sistemas** pela Universidade Federal de Minas Gerais, e viciado em bootcamps e desafios de código.
-
-***
-## 🛠 &nbsp;Tech Stack
-
-### 👩‍💻 &nbsp;Back-End
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-
-### 🎨 &nbsp;Front-end
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
-### ⚡ &nbsp;Database 
-<img align="center" alt="Israel-Pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;
-![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+since+2020;Specialist+in+.NET+%26+Angular;Building+Real-Time+%26+Scalable+Systems;Focused+on+Performance+%26+Clean+Architecture" />
+  </a>
+</p>
 
 
- <br>
-<div>   
-   
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet"/>
+  <img src="https://img.shields.io/badge/.NET-Expert-512BD4"/>
+  <img src="https://img.shields.io/badge/Angular-Advanced-DD0031"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-232F3E"/>
+  <img src="https://img.shields.io/badge/APIs-REST%20%7C%20OData-green"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Brazilian Full Stack Developer based in Minas Gerais, with hands-on experience building **enterprise-grade systems, real-time architectures, and scalable APIs** since 2020.
+
+I operate at a **mid-level (Pleno) with strong ownership**, often acting as a technical reference within teams. I specialize in designing solutions that go beyond code — focusing on **performance, reliability, and real business impact**.
+
+I’ve worked across **backend, frontend, and infrastructure**, delivering complete solutions from concept to production.
+
+---
+
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge)
+
+### 🔧 Tools & Architecture
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![OData](https://img.shields.io/badge/OData-0A0A0A?style=for-the-badge)
+![Hangfire](https://img.shields.io/badge/Hangfire-FF6F00?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+
+---
+
+
+
+## 💡 What I Do Best
+
+- 🏗️ Design and build scalable system architectures for real-world applications  
+- 🔗 Develop robust and high-performance APIs (REST & OData)  
+- ⚡ Optimize performance using caching strategies and efficient queries  
+- 📡 Implement real-time systems using MQTT and WebSockets  
+- 🔄 Deliver full-stack solutions from backend to frontend to deployment  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israeljulio&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israeljulio&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljulio&layout=compact&theme=tokyonight" />
+</p>
+
+
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/israel-jhonatas-854557214">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:israel.jhonata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Open to global opportunities — let's build something impactful together.</h3>
