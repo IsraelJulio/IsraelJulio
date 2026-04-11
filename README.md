@@ -60,30 +60,6 @@ I’ve worked across **backend, frontend, and infrastructure**, delivering compl
 
 
 
-## 💡 What I Do Best
-
-- 🏗️ Design and build scalable system architectures for real-world applications  
-- 🔗 Develop robust and high-performance APIs (REST & OData)  
-- ⚡ Optimize performance using caching strategies and efficient queries  
-- 📡 Implement real-time systems using MQTT and WebSockets  
-- 🔄 Deliver full-stack solutions from backend to frontend to deployment  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israeljulio&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israeljulio&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljulio&layout=compact&theme=tokyonight" />
-</p>
-
 
 
 ## 📬 Let's Connect
