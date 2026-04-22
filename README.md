@@ -68,7 +68,7 @@ I’ve worked across **backend, frontend, and infrastructure**, delivering compl
   <a href="https://www.linkedin.com/in/israel-jhonatas-854557214">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:israel_julio@jabil.com">
+  <a href="mailto:israel.jhonata@jabil.com">
     <img src="https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
