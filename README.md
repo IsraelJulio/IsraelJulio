@@ -65,7 +65,7 @@ I’ve worked across **backend, frontend, and infrastructure**, delivering compl
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/israel-jhonatas-854557214">
+  <a href="https://www.linkedin.com/in/israeljhonatas">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:israel.jhonata@gmail.com">
