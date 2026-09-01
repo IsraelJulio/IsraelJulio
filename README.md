@@ -157,14 +157,6 @@ I'm especially interested in roles involving:
 
 It shows how I approach architecture, backend design, frontend structure, database modeling, performance, product thinking and technical documentation in a real project context.
 
-### 🎮 Medieval RPG Labirinto
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-medieval--rpg--labirinto.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://medieval-rpg-labirinto.vercel.app/)
-
-**Medieval RPG Labirinto** is an interactive game project focused on **frontend development, performance, user interaction, and digital experience design**.
-
-During the development process, I worked on building the **interfaces**, the **visual logic**, and the **integration of game elements**, creating a more dynamic and engaging experience for users.
-
 This project helped me improve my skills in:
 
 - Frontend development
@@ -174,5 +166,3 @@ This project helped me improve my skills in:
 - User experience design
 - Performance-focused interface behavior
 - Building more engaging digital experiences
-
-🔗 **Live Project:** [https://medieval-rpg-labirinto.vercel.app/](https://medieval-rpg-labirinto.vercel.app/)
