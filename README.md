@@ -10,6 +10,16 @@ My goal is to grow as an international Full Stack Developer, contributing to rem
 
 ---
 
+## 📊 Activity Across All Branches
+
+![Commits across all branches](./assets/activity.svg)
+
+Daily calendar of my commits across every existing branch in my public repositories, including forks. Identical commit SHAs are counted once across branches and repositories. Uses author dates in UTC for the last 365 days.
+
+[How this calendar works](./docs/activity.md)
+
+---
+
 ## 🚀 Featured Project
 
 # 4Fantasy Platform

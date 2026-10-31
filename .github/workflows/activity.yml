@@ -1,0 +1,39 @@
+name: Update all-branch activity
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate_activity.py'
+      - '.github/workflows/activity.yml'
+permissions:
+  contents: write
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USER: IsraelJulio
+          EXTRA_REPOSITORIES: ${{ vars.ACTIVITY_EXTRA_REPOSITORIES }}
+        run: python scripts/generate_activity.py
+      - name: Commit updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update all-branch activity calendar"
+            git push
+          fi
